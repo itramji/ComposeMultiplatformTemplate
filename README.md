@@ -1,1 +1,1 @@
-Compose Multiplatform Template App to kickStart your Project
+Compose Multiplatform Template App to kickStart Your Project
